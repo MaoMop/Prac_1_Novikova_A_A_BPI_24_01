@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Prac_1_Novikova_A_A_BPI_24_01, Конфигурация: Debug Any CPU ------
+1>  Prac_1_Novikova_A_A_BPI_24_01 -> C:\Users\Алена\source\repos\Prac_1_Novikova_A_A_BPI_24_01\bin\Debug\Prac_1_Novikova_A_A_BPI_24_01.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
